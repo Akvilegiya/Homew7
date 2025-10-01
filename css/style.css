@@ -1,7 +1,7 @@
-.akvi {
-    text-decoration-color: rgb(255, 0, 0);
+a[href^="https"] {
+  color: red;
 }
 
-.sol {
- font-size: 24px
+ul + p {
+  font-size: 24px;
 }
